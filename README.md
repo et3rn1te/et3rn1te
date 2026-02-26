@@ -1,11 +1,11 @@
-# Hi there, I'm Duc Tai Nguyen
+# Hi there, I'm Nguyen Duc Tai 👋
 
-### Aspiring Java Engineer | Full-Stack Developer
+### 🚀 Aspiring Java Engineer | Full-Stack Developer
 I am an **Information Technology Engineer** student at Nong Lam University, focused on building scalable backend systems and high-performance applications. I bridge the gap between complex logic and user-centric design.
 
 ---
 
-### Technical Arsenal
+### 🛠️ Technical Arsenal
 
 - **Languages:** Java (Spring Boot, JSP/Servlet), React TypeScript, C++, C#, Lua, Python.
 - **Backend Architecture:** RESTful APIs, JWT Security, MVC, OOP, SOLID Principles.
@@ -15,7 +15,7 @@ I am an **Information Technology Engineer** student at Nong Lam University, focu
 
 ---
 
-### Featured Engineering Projects
+### 🧪 Featured Engineering Projects
 
 #### [Fitness AI & Pose Detection](https://github.com/Et3rn1te)
 *A full-stack mobile ecosystem for health tracking.*
@@ -35,17 +35,17 @@ I am an **Information Technology Engineer** student at Nong Lam University, focu
 
 ---
 
-### Current Focus
-- **Working on:** Refining backend scalability for microservices.
-- **Learning:** High-performance systems and Cloud deployment (AWS).
-- **Fun Fact:** I approach code architecture like a game—every system needs perfect balance and zero-latency logic.
+### 📈 Current Focus
+- 🔭 **Working on:** Refining backend scalability for microservices.
+- 🌱 **Learning:** High-performance systems and Cloud deployment (AWS).
+- ⚡ **Fun Fact:** I approach code architecture like a game—every system needs perfect balance and zero-latency logic.
 
 ---
 
-### Connect with me
-- **Email:** [ndtai1011@gmail.com](mailto:ndtai1011@gmail.com)
-- **Location:** Ho Chi Minh City, Vietnam
-- **Interests:** Technical Research, System Architecture, Game Logic.
+### 📫 Connect with me
+- 📧 **Email:** [ndtai1011@gmail.com](mailto:ndtai1011@gmail.com)
+- 💼 **Location:** Ho Chi Minh City, Vietnam
+- 🎮 **Interests:** Technical Research, System Architecture, Game Logic.
 
 ---
 
