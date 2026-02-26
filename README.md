@@ -41,9 +41,7 @@ I am an **Information Technology Engineer** student at HCM Nong Lam University. 
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Et3rn1te&show_icons=true&theme=tokyonight" alt="Tai's GitHub Stats" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=et3rn1te)](https://github.com/et3rn1te/github-readme-stats)
 
 ---
 
